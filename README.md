@@ -1,7 +1,9 @@
-## Foutaisomètre : évaluer quantitativement la qualité d'une source
-## Bullshit-o-meter: quantifying the quality of a reference
+# Foutaisomètre : évaluer quantitativement la qualité d'une source
+# Bullshit-o-meter: quantifying the quality of a reference
 
 [Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.11.fr.pdf)
+
+## Métadonnées
 
 * Author / Auteur : Pascal Martinolli
 
@@ -19,4 +21,6 @@
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
-TM-bullshitometer
+\
+\
+https://github.com/pmartinolli/TM-bullshitometer
