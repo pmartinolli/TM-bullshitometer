@@ -17,8 +17,6 @@
 
 * Used by / Utilisé par  : Séminaire PLU6058
 
-* Promoted through / Diffusé via : FBPro
-
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
 \
