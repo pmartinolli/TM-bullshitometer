@@ -10,6 +10,7 @@ Bullshit-o-meter: quantifying the quality of a reference. Gamified summary for t
 Pour :
 
 - Aller plus loin que le simple oui/non.
+- Séparer clairement les éléments positifs des éléments négatifs («les bons et les méchants»)
 - Synthétiser le contenu présenté dans les ateliers de formation sur l'évaluation des sources.
 - Rendre ces raccourcis de pensée, les heuristiques de jugement (Kahneman, 2014), plus explicites, plus complets et pondérés par une valeur.
 
@@ -27,7 +28,7 @@ Pour :
 
 2. Finding the weakest source in a list of bibliographic references : your thesis, your syllabus, a book.
 
-3. Debatting the values of the elements -5...+5. 
+3. Debatting the quantified values of the elements : -5...+5 (is it enough ? is it too much ?...)
 
 
 
