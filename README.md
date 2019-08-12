@@ -1,5 +1,6 @@
 # Foutaisomètre : évaluer quantitativement la qualité d'une source
-Bullshit-o-meter: quantifying the quality of a reference. Gamified summary for the evaluation of sources activity. 
+
+*Bullshit-o-meter: quantifying the quality of a reference. Gamified summary for the evaluation of sources activity.*
 
 [Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.11.fr.pdf)
 
