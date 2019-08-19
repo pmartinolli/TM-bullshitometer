@@ -1,8 +1,10 @@
 # Foutaisomètre : évaluer quantitativement la qualité d'une source
 
+[Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.11.fr.pdf)
+
 *Bullshit-o-meter: quantifying the quality of a reference. Gamified summary for the evaluation of sources activity.*
 
-[Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.11.fr.pdf)
+[Translated in english, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/BS-meter_eng_0.1.pdf)
 
 ## Principes / *Principles*
 
@@ -44,6 +46,8 @@ Pour :
 
 * Auteur / *Author* : Pascal Martinolli
 
+* Traductrice en anglais / *English Translator* : [Jennifer AW Stubbs](https://github.com/jas58)
+
 * Créé le / *Created* : 2016
 
 * Dernière version / *Most recent version* : 1.11
@@ -52,7 +56,7 @@ Pour :
 
 * Licence / *License* : CC-BY
 
-* Comment le citer / *How to cite it* : Martinolli, Pascal. 2016. *Foutaisomètre*. https://github.com/pmartinolli/TM-bullshitometer
+* Comment le citer / *How to cite it* : Martinolli, Pascal. 2016. *Foutaisomètre (The « Bullshit-o-meter »)*. https://github.com/pmartinolli/TM-bullshitometer (translated in English by Jennifer AW Stubbs).
 
 * Utilisé par / *Used by* : Séminaire PLU6058
 
