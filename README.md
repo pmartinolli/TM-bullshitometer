@@ -46,7 +46,7 @@ Pour :
 
 * Auteur / *Author* : Pascal Martinolli
 
-* Traductrice en anglais / *English Translator* : [Jennifer AW Stubbs](https://github.com/jas58)
+* Traduit en anglais par / *Translated by* : [Jennifer AW Stubbs](https://github.com/jas58)
 
 * Créé le / *Created* : 2016
 
