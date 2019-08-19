@@ -2,9 +2,9 @@
 
 [Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.11.fr.pdf)
 
-*Bullshit-o-meter: quantifying the quality of a source. Gamified summary for the evaluation of sources activity.*
+# *Bullshit-o-meter: quantifying the quality of a source* 
 
-[Translated in english, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/BS-meter_eng_0.1.pdf)
+[Translated in english, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/BS-meter_eng_0.1.pdf). *Gamified summary for the evaluation of sources activity.*
 
 ## Principes / *Principles*
 
