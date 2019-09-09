@@ -58,7 +58,7 @@ Pour :
 
 * Comment le citer / *How to cite it* : Martinolli, Pascal. 2016. *Foutaisomètre (The « Bullshit-o-meter »)*. https://github.com/pmartinolli/TM-bullshitometer (translated in English by Jennifer AW Stubbs).
 
-* Utilisé par / *Used by* : séminaire PLU6058, Université de Montréal; collège Montmorency.
+* Utilisé par / *Used by* : séminaire PLU6058, Université de Montréal ; collège Montmorency ; NYU Shanghai.
 
 * Présenté à / *Presented at* : [WILU2018](http://hdl.handle.net/1866/20641), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html), [REBICQ 2019](http://hdl.handle.net/1866/22188).
 
