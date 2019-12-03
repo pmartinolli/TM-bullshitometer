@@ -1,6 +1,6 @@
 # Foutaisomètre : évaluer quantitativement la qualité d'une source
 
-([Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.11.fr.pdf), [fichier original (*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
+[Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.11.fr.pdf), [fichier original (*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
 # *Bullshit-o-meter: quantifying the quality of a source* 
 
