@@ -1,6 +1,6 @@
 # Foutaisomètre : évaluer quantitativement la qualité d'une source
 
-[Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.11.fr.pdf), [fichier original (*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
+[Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.12.fr.pdf), [fichier original (*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
 # *Bullshit-o-meter: quantifying the quality of a source* 
 
@@ -50,7 +50,7 @@ Pour :
 
 * Créé le / *Created* : 2016
 
-* Dernière version / *Most recent version* : 1.11
+* Dernière version / *Most recent version* : janvier 2020 v1.12
 
 * Format de fichier / *Original format* : MS Publisher 2013, 2016 (Propriétaire/*Proprietary*)
 
@@ -58,11 +58,11 @@ Pour :
 
 * Comment le citer / *How to cite it* : Martinolli, Pascal. 2016. *Foutaisomètre (The « Bullshit-o-meter »)*. https://github.com/pmartinolli/TM-bullshitometer (translated in English by Jennifer AW Stubbs).
 
-* Utilisé par / *Used by* : séminaire PLU6058, Université de Montréal ; collège Montmorency ; NYU Shanghai.
+* Utilisé par / *Used by* : [séminaire PLU6058, Université de Montréal](https://bib.umontreal.ca/multidisciplinaire/plu6058) ; [MOOC BONICI, Université de Montréal](https://github.com/pmartinolli/BoniCI) ; [Bibliothèque du cégep de Ste-Foy](https://biblio.cegep-ste-foy.qc.ca/fileadmin/documents/bibliotheque/grille_evaluation_information_20200115.pdf) ; [Bibliothèque du Collège Montmorency](https://www.cmontmorency.qc.ca/etudiants/services-aux-etudiants/bibliotheque/) ; [Bibliothèque du cégep de la Gaspésie et des Îles](http://www.cegepgim.ca/biblio/gaspe) ; [Bibliothèque du cégep de Rivière-du-Loup](https://www.cegeprdl.ca/grand-public/bibliotheque/aide-a-la-recherche/) [BU Aix-Marseille Université](https://bu.univ-amu.libguides.com/infox) ; NYU Shanghai.
 
 * Présenté à / *Presented at* : [WILU2018](http://hdl.handle.net/1866/20641), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html), [REBICQ 2019](http://hdl.handle.net/1866/22188).
 
-* Diffusé via / *Promoted through* : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
+* Diffusé via / *Promoted through* : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca) (in [Oasis](https://oasis.geneseo.edu/basic_search.php?search_query=foutaisom%C3%A8tre))
 
 * Commentaires bienvenus / *Commments are welcomed at* : pascal.martinolli [à] umontreal.ca
 
