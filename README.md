@@ -4,7 +4,7 @@
 
 # *Bullshit-o-meter: quantifying the quality of a source* 
 
-[Translated in english, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/bs-meter-v.1.12.en.pdf). *Gamified summary for the evaluation of sources activity.* [Original source file (*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
+[Translated in english, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/bs-meter-v.1.12.en.pdf),  [Original source file (*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
 ## Principes / *Principles*
 
