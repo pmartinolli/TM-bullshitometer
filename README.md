@@ -50,7 +50,7 @@ Pour :
 
 * Créé le / *Created* : 2016
 
-* Dernière version / *Most recent version* : janvier 2020 v1.12
+* Dernière version / *Most recent version* : 2020-02-04 v1.13
 
 * Format de fichier / *Original format* : MS Publisher 2013, 2016 (Propriétaire/*Proprietary*)
 
