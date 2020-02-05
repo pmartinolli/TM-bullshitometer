@@ -39,7 +39,18 @@ Pour :
 
 *3. Debatting the quantified values of the elements : -5...+5 (is it enough ? is it too much ?...).*
 
+## Un peu de bayésianisme / *Some bayesianism*
 
+Depuis la version 1.13, le foutaisomètre inclus une sorte de « logique bayésienne » sur les critères d'autorité. Cette pondération bonus/malus peut apporter du renforcement positif quand la source concorde avec le consensus scientifique actuel dans la discipline, ou du rejet quand des éléments de la source nous alertent car ils figurent déjà dans une liste noire que l'on s'est constituée. 
+
+Le **consensus scientifique** peut être identifié de manière différente selon la discipline. Habituellement, il peut être trouvé dans :
+- des *handbooks* ;
+- des encyclopédies spécialisées éditées par des presses universitaires ou des sociétés savantes ;
+- les revues les plus prestigieuses ;
+- les articles les plus cités ;
+- des documents spécifiquement édités pour énoncer le consensus (comme les publications du GIEC par exemple).
+
+Dans le but de discipliner ses biais de confirmation, il peut être pertinent de se constituer une **liste noire** explicite de sources déjà évaluées douteuses (auteurs, éditeurs, etc.). Pour se constituer une liste noire, on peut créer un document électronique contenant un tableau en deux colonnes. Une première colonne avec le nom de l'élément et une seconde colonne avec le détail de pourquoi celui-ci figure dans la liste noire (et une date AAAAMMJJ).
 
 
 ## Métadonnées / *Metadata* :
