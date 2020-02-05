@@ -72,8 +72,8 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
 * Comment le citer / *How to cite it* : Martinolli, Pascal. 2016-2020. *Foutaisomètre : évaluer quantitativement la qualité d'une source \[Bullshit-o-meter: quantifying the quality of a source\]*. https://github.com/pmartinolli/TM-bullshitometer (translated in English by Jennifer AW Stubbs).
 
 * Utilisé par / *Used by* : 
-   * [séminaire PLU6058, Université de Montréal](https://bib.umontreal.ca/multidisciplinaire/plu6058) ; 
-   * [MOOC BONICI, Université de Montréal](https://github.com/pmartinolli/BoniCI) ; 
+   * [Séminaire PLU6058, Université de Montréal](https://bib.umontreal.ca/multidisciplinaire/plu6058) ; 
+   * [MOOC BoniCI, Université de Montréal](https://github.com/pmartinolli/BoniCI) ; 
    * [ANT2290 - Monstres, ovnis et pseudo-archéologie](https://anthropo.umontreal.ca/public/FAS/anthropologie/Documents/1-Programmes-cours/plan_cours_ANT2290_H20-JRS.pdf), Université de Montréal ; 
    * [FAS1901 - Méthodes de travail universitaire, Université de Montréal](https://admission.umontreal.ca/cours-et-horaires/cours/fas-1901/)
    * [Bibliothèque du Collège Montmorency](https://www.cmontmorency.qc.ca/etudiants/services-aux-etudiants/bibliotheque/) ; 
