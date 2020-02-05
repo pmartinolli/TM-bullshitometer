@@ -44,7 +44,7 @@ Pour :
 Depuis la version 1.13, le foutaisomètre inclus une sorte de « logique bayésienne » sur les critères d'autorité. Cette pondération bonus/malus peut apporter du renforcement positif quand la source concorde avec le consensus scientifique actuel dans la discipline, ou du rejet quand des éléments de la source nous alertent car ils figurent déjà dans une liste noire que l'on s'est constituée. 
 
 Le **consensus scientifique** peut être identifié de manière différente selon la discipline. Habituellement, il peut être trouvé dans :
-- des *handbooks* ;
+- des *handbooks* (manuels avancés) universitaires ;
 - des encyclopédies spécialisées éditées par des presses universitaires ou des sociétés savantes ;
 - les revues les plus prestigieuses ;
 - les articles les plus cités ;
