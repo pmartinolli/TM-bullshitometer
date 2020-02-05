@@ -2,6 +2,8 @@
 
 [Fiche en français, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.13.fr.pdf), [fichier original (*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
+[![Foutaisomètre snapshot](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-snapshot.png)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.13.fr.pdf)
+
 # *Bullshit-o-meter: quantifying the quality of a source* 
 
 [Translated in english, PDF](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/bs-meter-v.1.13.en.pdf),  [Original source file (*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
