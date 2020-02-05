@@ -69,7 +69,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
 
 * Licence / *License* : CC-BY
 
-* Comment le citer / *How to cite it* : Martinolli, Pascal. 2016. *Foutaisomètre (The « Bullshit-o-meter »)*. https://github.com/pmartinolli/TM-bullshitometer (translated in English by Jennifer AW Stubbs).
+* Comment le citer / *How to cite it* : Martinolli, Pascal. 2016-2020. *Foutaisomètre : évaluer quantitativement la qualité d'une source \[Bullshit-o-meter: quantifying the quality of a source\]*. https://github.com/pmartinolli/TM-bullshitometer (translated in English by Jennifer AW Stubbs).
 
 * Utilisé par / *Used by* : [séminaire PLU6058, Université de Montréal](https://bib.umontreal.ca/multidisciplinaire/plu6058) ; [MOOC BONICI, Université de Montréal](https://github.com/pmartinolli/BoniCI) ; ANT2290, Université de Montréal  ;  [Bibliothèque du Collège Montmorency](https://www.cmontmorency.qc.ca/etudiants/services-aux-etudiants/bibliotheque/) ; [Bibliothèque du cégep de Ste-Foy](https://biblio.cegep-ste-foy.qc.ca/fileadmin/documents/bibliotheque/grille_evaluation_information_20200115.pdf) ; [Bibliothèque du cégep de la Gaspésie et des Îles](http://www.cegepgim.ca/biblio/gaspe) ; [Bibliothèque du cégep de Rivière-du-Loup](https://www.cegeprdl.ca/grand-public/bibliotheque/aide-a-la-recherche/) ; [BU Aix-Marseille Université](https://bu.univ-amu.libguides.com/infox) ; [NYU Shanghai Library](https://shanghai.nyu.edu/academics/library).
 
