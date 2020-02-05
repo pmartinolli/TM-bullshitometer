@@ -41,7 +41,7 @@ Pour :
 
 ## Un peu de bayésianisme / *Some bayesianism*
 
-Depuis la version 1.13, le foutaisomètre inclus une sorte de « logique bayésienne » sur les critères d'autorité. Cette pondération bonus/malus peut apporter du renforcement positif quand la source concorde avec le consensus scientifique actuel dans la discipline, ou du rejet quand des éléments de la source nous alertent car ils figurent déjà dans une liste noire que l'on s'est constituée. 
+Depuis la version 1.13, le foutaisomètre inclus une sorte de « [logique bayésienne](https://fr.wikipedia.org/wiki/Inf%C3%A9rence_bay%C3%A9sienne) » sur les critères d'autorité. Cette pondération bonus/malus peut apporter du renforcement positif quand la source concorde avec le consensus scientifique actuel dans la discipline, ou du rejet quand des éléments de la source nous alertent car ils figurent déjà dans une liste noire que l'on s'est constituée. 
 
 Le **consensus scientifique** peut être identifié de manière différente selon la discipline. Habituellement, il peut être trouvé dans :
 - des *handbooks* (manuels avancés) universitaires ;
