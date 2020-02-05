@@ -72,17 +72,21 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
 * Comment le citer / *How to cite it* : Martinolli, Pascal. 2016-2020. *Foutaisomètre : évaluer quantitativement la qualité d'une source \[Bullshit-o-meter: quantifying the quality of a source\]*. https://github.com/pmartinolli/TM-bullshitometer (translated in English by Jennifer AW Stubbs).
 
 * Utilisé par / *Used by* : 
-   * [Séminaire PLU6058, Université de Montréal](https://bib.umontreal.ca/multidisciplinaire/plu6058) ; 
-   * [NYU Shanghai Library](https://shanghai.nyu.edu/academics/library).
-   * [MOOC BoniCI, Université de Montréal](https://github.com/pmartinolli/BoniCI) ; 
-   * [ANT2290 - Monstres, ovnis et pseudo-archéologie](https://anthropo.umontreal.ca/public/FAS/anthropologie/Documents/1-Programmes-cours/plan_cours_ANT2290_H20-JRS.pdf), Université de Montréal ; 
-   * [FAS1901 - Méthodes de travail universitaire, Université de Montréal](https://admission.umontreal.ca/cours-et-horaires/cours/fas-1901/)
-   * [Bibliothèque du Collège Montmorency](https://www.cmontmorency.qc.ca/etudiants/services-aux-etudiants/bibliotheque/) ; 
-   * [Bibliothèque du cégep de Ste-Foy](https://biblio.cegep-ste-foy.qc.ca/fileadmin/documents/bibliotheque/grille_evaluation_information_20200115.pdf) ; 
-   * [Bibliothèque du cégep de la Gaspésie et des Îles](http://www.cegepgim.ca/biblio/gaspe) ;
-   * [Bibliothèque du cégep de Rivière-du-Loup](https://www.cegeprdl.ca/grand-public/bibliotheque/aide-a-la-recherche/) ; 
-   * [BnF - Bibliothèque nationale de France](https://www.archimag.com/bibliotheque-edition/2019/08/27/franck-hurinville-bnf-bibliothecaires-documentalistes-desinformation) ;
-   * [BU Aix-Marseille Université](https://bu.univ-amu.libguides.com/infox) ;
+   * Université de Montréal
+      * [Séminaire PLU6058 - Rechercher et exploiter la documentation](https://bib.umontreal.ca/multidisciplinaire/plu6058) ; 
+      * [FAS1901 - Méthodes de travail universitaire](https://admission.umontreal.ca/cours-et-horaires/cours/fas-1901/)
+      * [ANT2290 - Monstres, ovnis et pseudo-archéologie](https://anthropo.umontreal.ca/public/FAS/anthropologie/Documents/1-Programmes-cours/plan_cours_ANT2290_H20-JRS.pdf) ; 
+      * [MOOC BoniCI - Bonifier ses compétences informationnelles](https://github.com/pmartinolli/BoniCI) ; 
+   * New York University
+      * [NYU Shanghai Library](https://shanghai.nyu.edu/academics/library).
+   * Cégeps du Québec
+     * [Bibliothèque du Collège Montmorency](https://www.cmontmorency.qc.ca/etudiants/services-aux-etudiants/bibliotheque/) ; 
+     * [Bibliothèque du cégep de Ste-Foy](https://biblio.cegep-ste-foy.qc.ca/fileadmin/documents/bibliotheque/grille_evaluation_information_20200115.pdf) ; 
+     * [Bibliothèque du cégep de la Gaspésie et des Îles](http://www.cegepgim.ca/biblio/gaspe) ;
+     * [Bibliothèque du cégep de Rivière-du-Loup](https://www.cegeprdl.ca/grand-public/bibliotheque/aide-a-la-recherche/) ; 
+   * Bibliothèques en France
+     * [BnF - Bibliothèque nationale de France](https://www.archimag.com/bibliotheque-edition/2019/08/27/franck-hurinville-bnf-bibliothecaires-documentalistes-desinformation) ;
+     * [BU Aix-Marseille Université](https://bu.univ-amu.libguides.com/infox) ;
 
   
 
