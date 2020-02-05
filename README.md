@@ -52,7 +52,7 @@ Le **consensus scientifique** peut être identifié de manière différente selo
 - les articles les plus cités ;
 - des documents spécifiquement édités pour énoncer le consensus (comme les publications du GIEC par exemple).
 
-Dans le but de discipliner ses biais de confirmation, il peut être pertinent de se constituer une **liste noire** explicite de sources déjà évaluées douteuses (auteurs, éditeurs, etc.). Pour se constituer une liste noire, on peut créer un document électronique contenant un tableau en deux colonnes. Une première colonne avec le nom de l'élément et une seconde colonne avec le détail de pourquoi celui-ci figure dans la liste noire (et une date AAAAMMJJ).
+Dans le but de discipliner ses biais de confirmation, il peut être pertinent de se constituer une **liste noire** explicite de sources déjà évaluées comme douteuses (auteurs, éditeurs, etc.). Pour se constituer une liste noire, on peut créer un document électronique contenant un tableau en deux colonnes. Une première colonne avec le nom de l'élément et une seconde colonne avec le détail de pourquoi celui-ci figure dans la liste noire (et une date AAAAMMJJ).
 
 
 ## Métadonnées / *Metadata* :
