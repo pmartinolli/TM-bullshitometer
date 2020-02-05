@@ -73,6 +73,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
 
 * Utilisé par / *Used by* : 
    * [Séminaire PLU6058, Université de Montréal](https://bib.umontreal.ca/multidisciplinaire/plu6058) ; 
+   * [NYU Shanghai Library](https://shanghai.nyu.edu/academics/library).
    * [MOOC BoniCI, Université de Montréal](https://github.com/pmartinolli/BoniCI) ; 
    * [ANT2290 - Monstres, ovnis et pseudo-archéologie](https://anthropo.umontreal.ca/public/FAS/anthropologie/Documents/1-Programmes-cours/plan_cours_ANT2290_H20-JRS.pdf), Université de Montréal ; 
    * [FAS1901 - Méthodes de travail universitaire, Université de Montréal](https://admission.umontreal.ca/cours-et-horaires/cours/fas-1901/)
@@ -82,7 +83,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
    * [Bibliothèque du cégep de Rivière-du-Loup](https://www.cegeprdl.ca/grand-public/bibliotheque/aide-a-la-recherche/) ; 
    * [BnF - Bibliothèque nationale de France](https://www.archimag.com/bibliotheque-edition/2019/08/27/franck-hurinville-bnf-bibliothecaires-documentalistes-desinformation) ;
    * [BU Aix-Marseille Université](https://bu.univ-amu.libguides.com/infox) ;
-   * [NYU Shanghai Library](https://shanghai.nyu.edu/academics/library).
+
   
 
 * Présenté à / *Presented at* : [WILU2018](http://hdl.handle.net/1866/20641), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html), [REBICQ 2019](http://hdl.handle.net/1866/22188), [The Library Collective 2020](https://www.thelibrarycollective.org/).
