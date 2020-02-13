@@ -94,6 +94,8 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
 
 * Diffusé via / *Promoted through* : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca) (in [Oasis](https://oasis.geneseo.edu/basic_search.php?search_query=foutaisom%C3%A8tre))
 
+* Contributions : Jennifer AW Stubbs, Mathieu Thomas, Nino Gabrielli, Natalie Clairoux, Patrice Dupont.
+
 * Commentaires bienvenus / *Commments are welcomed at* : pascal.martinolli [à] umontreal.ca
 
 \
