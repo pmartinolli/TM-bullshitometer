@@ -1,12 +1,12 @@
 # Foutaisomètre : évaluer quantitativement la qualité d'une source
 
-[Fiche en français (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.14.fr.pdf), fichier source [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
+[Fiche en français (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.16.fr.pdf), fichier source [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
-[![Foutaisomètre snapshot](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-snapshot.png)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.13.fr.pdf)
+[![Foutaisomètre snapshot](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-snapshot.png)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.16.fr.pdf)
 
 # *Bullshit-o-meter: quantifying the quality of a source* 
 
-[Translated in English (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/bs-meter-v.1.13.en.pdf),  Original source file [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
+[Translated in English (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/bs-meter-v.1.16.en.pdf),  Original source file [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
 ## Principes / *Principles*
 
@@ -63,7 +63,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
 
 * Créé le / *Created* : 2016
 
-* Dernière version / *Most recent version* : 2020-02-13 v1.14
+* Dernière version / *Most recent version* : 2020-07-15 v1.16
 
 * Format de fichier / *Original format* : MS Publisher 2013, 2016 (Propriétaire/*Proprietary*)
 
