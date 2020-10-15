@@ -79,6 +79,8 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
       * [MOOC BoniCI - Bonifier ses compétences informationnelles](https://github.com/pmartinolli/BoniCI) ; 
    * New York University
       * [NYU Shanghai Library](https://shanghai.nyu.edu/academics/library).
+   * École de technologie supérieure, Université du Québec
+   * École polytechnique fédérale de Lausanne 
    * Cégeps du Québec
      * [Bibliothèque du Collège Montmorency](https://www.cmontmorency.qc.ca/etudiants/services-aux-etudiants/bibliotheque/) ; 
      * [Bibliothèque du cégep de Ste-Foy](https://biblio.cegep-ste-foy.qc.ca/fileadmin/documents/bibliotheque/grille_evaluation_information_20200115.pdf) ; 
