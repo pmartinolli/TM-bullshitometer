@@ -94,7 +94,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
 
 * Présenté à / *Presented at* : [WILU2018](http://hdl.handle.net/1866/20641), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html), [TribuneCI 2018](https://tribuneci.wordpress.com/2018/05/30/collaborer-avec-le-professeur-pour-levaluation-des-sources-les-criteres-dautorite/), [REBICQ 2019](http://hdl.handle.net/1866/22188), [TribuneCI 2019](https://tribuneci.wordpress.com/2019/05/09/linformation-a-une-valeur/), [The Library Collective 2020](https://www.thelibrarycollective.org/).
 
-* Diffusé via / *Promoted through* : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca) (in [Oasis](https://oasis.geneseo.edu/basic_search.php?search_query=foutaisom%C3%A8tre))
+* Diffusé via / *Promoted through* : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca) (in [Oasis](https://oasis.geneseo.edu/basic_search.php?search_query=foutaisom%C3%A8tre)), [Archimag](https://www.archimag.com/bibliotheque-edition/2019/08/27/franck-hurinville-bnf-bibliothecaires-documentalistes-desinformation)
 
 * Contributions : Jennifer AW Stubbs, Mathieu Thomas, Nino Gabrielli, Natalie Clairoux, Patrice Dupont.
 
