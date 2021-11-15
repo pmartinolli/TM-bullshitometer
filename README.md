@@ -87,6 +87,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
      * [Bibliothèque du cégep de la Gaspésie et des Îles](http://www.cegepgim.ca/biblio/gaspe) ;
      * [Bibliothèque du cégep de Rivière-du-Loup](https://www.cegeprdl.ca/grand-public/bibliotheque/aide-a-la-recherche/). 
    * Bibliothèques en France
+     * [Université de Reims](http://deontologeek.fr/foutaisometre/foutaisometre.html) : Foutaisomètre cliquable!
      * [BnF - Bibliothèque nationale de France](https://www.archimag.com/bibliotheque-edition/2019/08/27/franck-hurinville-bnf-bibliothecaires-documentalistes-desinformation) ;
      * [BU Aix-Marseille Université](https://bu.univ-amu.libguides.com/infox).
 
