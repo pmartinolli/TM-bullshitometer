@@ -79,6 +79,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
       * [MOOC BoniCI - Bonifier ses compétences informationnelles](https://github.com/pmartinolli/BoniCI) ; 
    * New York University
       * [NYU Shanghai Library](https://shanghai.nyu.edu/academics/library).
+      * [Foutaisomètre de la Fabrique REL](https://eduq.info/xmlui/handle/11515/37913)
    * École de technologie supérieure, Université du Québec
    * École polytechnique fédérale de Lausanne 
    * Cégeps du Québec
