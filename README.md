@@ -10,7 +10,7 @@
 
 ## Principes / *Principles*
 
-Évaluer une source avec une grille d’analyse quantifiée et ludifiée. Chaque élément apporte ou retire du crédit à une source, mais selon une échelle numérique qui va de -5 à +5.
+Évaluer une source avec une grille d’analyse quantifiée et ludifiée. Chaque élément apporte ou retire du crédit à une source, selon une échelle numérique qui va de -10 à +5.
 
 Pour :
 
