@@ -69,7 +69,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
 
 * Licence / *License* : par les <a href="https://bib.umontreal.ca/">bibliothèques UdeM</a>, sous licence <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
 
-* Comment le citer pour le réutiliser (exemple) / *How to cite it to reuse it (example)* : « Foutaisomètre » par l’Association des étudiants, sous [licence CC BY 4.0 International](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1), adapté de [*Foutaisomètre : évaluer quantitativement la qualité d'une source*](https://github.com/pmartinolli/TM-bullshitometer), les <a href="https://bib.umontreal.ca/">bibliothèques UdeM</a>.
+* Comment le citer pour le réutiliser (exemple) / *How to cite it to reuse it (example)* : « Foutaisomètre » par l’Association des étudiants, sous [licence CC BY 4.0 International](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1), adapté de [*Foutaisomètre : évaluer quantitativement la qualité d'une source*](https://github.com/pmartinolli/TM-bullshitometer), les <a href="https://bib.umontreal.ca/">bibliothèques UdeM</a>, sous [licence CC BY 4.0 International](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
 * Utilisé par / *Used by* : 
    * Université de Montréal
