@@ -35,6 +35,10 @@ Pour :
 
 3. Discussion sur les valeurs -5  à +5. Tous les critères listés dans le foutaisomètre ne se valent pas. Certains sont plus forts que d'autres. L'échelle va de 1 point à 5 points. Je demande aux étudiants de discuter le nombre de points. Comment est-ce qu'ils construiraient une nouvelle échelle de points ?
 
+4. Le score final ne veut rien dire en soi. Il ne peut être utilisé pour comparer des sources entre elles. 
+
+5. Le foutaisomètre n'évalue pas la pertinence d'un document en fonction de votre besoin d'information. Un document peut être de très bonne qualité, fiable et reconnu mais être complètement inadapté au type de travail ou de projet que vous menez.
+
 *1. A laminated copy could be used as award for the first student who discovers the mistake deliberately put in the learning activity; the other participants only get a paper copy of the sheet.*
 
 *2. Finding the weakest source in a list of bibliographic references : your thesis, your syllabus, a book.*
