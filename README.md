@@ -45,6 +45,10 @@ Pour :
 
 *3. Debatting the quantified values of the elements : -5...+5 (is it enough ? is it too much ?...).*
 
+*4. The final score doesn't have a meaning by itself. They cannot be used to measure different sources.*
+
+*5. The Bullshitometer doesn't assess how a source is relevant to your works and your information needs.*
+
 ## Un peu de bayésianisme / *Some bayesianism*
 
 Depuis la version 1.13, le foutaisomètre inclus une sorte de « [logique bayésienne](https://fr.wikipedia.org/wiki/Inf%C3%A9rence_bay%C3%A9sienne) » sur les critères d'autorité. Cette pondération bonus/malus peut apporter du renforcement positif quand la source concorde avec le consensus scientifique actuel dans la discipline, ou du rejet quand des éléments de la source nous alertent car ils figurent déjà dans une liste noire que l'on s'est constituée. 
