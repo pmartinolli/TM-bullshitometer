@@ -85,6 +85,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
       * [FAS1901 - Méthodes de travail universitaire](https://admission.umontreal.ca/cours-et-horaires/cours/fas-1901/) ;
       * [ANT2290 - Monstres, ovnis et pseudo-archéologie](https://anthropo.umontreal.ca/public/FAS/anthropologie/Documents/1-Programmes-cours/plan_cours_ANT2290_H20-JRS.pdf) ; 
       * [MOOC BoniCI - Bonifier ses compétences informationnelles](https://github.com/pmartinolli/BoniCI) ; 
+      * [Foutaisomètre des REL](https://fabriquerel.org/wp-content/uploads/2020/05/foutaisometre-REL-fabriqueREL.pdf)
    * New York University
       * [NYU Shanghai Library](https://shanghai.nyu.edu/academics/library).
       * [Foutaisomètre de la Fabrique REL](https://eduq.info/xmlui/handle/11515/37913)
