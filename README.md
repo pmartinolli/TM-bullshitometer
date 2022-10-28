@@ -4,7 +4,7 @@
 
 [![Foutaisomètre snapshot](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-snapshot.png)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.19.fr.pdf)
 
-# *Bullshit-o-meter: quantifying the quality of a source* 
+# *Bullshit-o-meter: assessing the quality of a source* 
 
 [Translated in English (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/bs-meter-v.1.16.en.pdf),  Original source file [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
