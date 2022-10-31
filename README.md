@@ -1,4 +1,4 @@
-# Foutaisomètre : évaluer la qualité d'une source
+# Foutaisomètre : donne des critères pour évaluer la qualité d'une source
 
 [Fiche en français (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.19.fr.pdf), fichier source [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
