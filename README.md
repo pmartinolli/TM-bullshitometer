@@ -100,6 +100,7 @@ Dans le but de discipliner ses biais de confirmation, il peut être pertinent de
      * [Institut national supérieur du professorat et de l'éducation de l'académie de Reims, Université de Reims](http://deontologeek.fr/foutaisometre/foutaisometre.html) : Foutaisomètre cliquable!
      * [BnF - Bibliothèque nationale de France](https://www.archimag.com/bibliotheque-edition/2019/08/27/franck-hurinville-bnf-bibliothecaires-documentalistes-desinformation) ;
      * [BU Aix-Marseille Université](https://bu.univ-amu.libguides.com/infox).
+     * [Une revue intégrative sur les soins palliatifs](https://qane-afi.casn.ca/cgi/viewcontent.cgi?article=1391&context=journal).
 
   
 
