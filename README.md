@@ -8,7 +8,7 @@
 
 # *Bullshit-o-meter: assessing the quality of a source* 
 
-[Translated in English (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/bs-meter-v.1.16.en.pdf),  Original source file [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
+[Translated in English (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/BS-meter_eng_1.17.pdf),  Original source file [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
 ## Principes / *Principles*
 
