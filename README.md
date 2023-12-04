@@ -2,7 +2,7 @@
 
 [Fiche en français (PDF)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.19.fr.pdf), fichier source [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
-* Variante pour l'histoire : [Évaluer un document de type source secondaire (monographie ou article scientifique) en histoire](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/Histoire-evaluer-monographie-article-1.pdf), fichier source [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
+* Variante pour l'histoire : [Évaluer un document de type source secondaire (monographie ou article scientifique) en histoire](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/Histoire-evaluer-monographie-article.pdf), fichier source [(*.PUB)](https://github.com/pmartinolli/TM-bullshitometer/tree/master/files)
 
 [![Foutaisomètre snapshot](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-snapshot.png)](https://github.com/pmartinolli/TM-bullshitometer/blob/master/files/foutaisometre-v.1.19.fr.pdf)
 
